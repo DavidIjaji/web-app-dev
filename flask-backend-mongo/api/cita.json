@@ -1,0 +1,30 @@
+{
+    "paciente": {
+        "nombre": "Lara",
+        "primerApellido": "Bolton",
+        "segundoApellido": "Mathews",
+        "numeroIdentificacion": "9467250831",
+        "email": "lara@gmail.com",
+        "telefono": "(382) 750 9461",
+        "direccion": "74 Hamilton Avenue, Foxworth, Iowa"
+    },
+    "medico": {
+        "nombre": "Shaw",
+        "primerApellido": "Buckner",
+        "segundoApellido": "Travis",
+        "diasDisponible": "WJV",
+        "horariolaboral": "8:00-11:00",
+        "numeroIdentificacion": "6835407192",
+        "email": "shaw@gmail.com",
+        "telefono": "(362) 794 8053",
+        "lugarTrabajo": "DBRef(serviciosTerceros, 621af2b273f28c550a1c8b7a)",
+        "direccion": "80 Dennett Place, Graball, Massachusetts",
+        "especialidad": "Infectología"
+    },
+    "fecha": "11-03-2022",
+    "hora": "14:00",
+    "lugar": {
+        "nombre": "IPS jesus redentor",
+        "direccion": "74 Freeman Avenue, GreenStreet, Iowa"
+    }
+}
